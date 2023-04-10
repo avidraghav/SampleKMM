@@ -85,3 +85,9 @@ android {
         targetSdk = 33
     }
 }
+
+sqldelight {
+    database("AppDatabase") {
+        packageName = "com.raghav.samplekmm.cache"
+    }
+}
