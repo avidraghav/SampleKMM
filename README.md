@@ -5,8 +5,7 @@ A Sample KMM project with Ktor and SQLDelight setup
 
 ![Untitled-Page-1 drawio (2)](https://user-images.githubusercontent.com/49483235/231143330-a5e5415a-e802-4c30-8cbf-0b35f1fbb141.png)
 
-![Untitled-Page-2 drawio](https://user-images.githubusercontent.com/49483235/231143639-61a9f36a-a562-483a-bd7b-c74c990f888e.png)
-
+![Untitled-Page-2 drawio (1)](https://user-images.githubusercontent.com/49483235/231144708-c153f592-43a4-4054-bbb7-d570e28c3702.png)
 
 
 
