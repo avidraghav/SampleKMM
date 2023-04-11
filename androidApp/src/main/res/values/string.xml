@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launch">Launch name: %s</string>
+    <string name="launch_status">Launch Successful? %s</string>
+    <string name="launch_year">Launch year: %s</string>
+    <string name="launch_details">Launch details: %s</string>
+</resources>
